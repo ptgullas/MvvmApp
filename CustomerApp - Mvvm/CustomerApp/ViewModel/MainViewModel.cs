@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Windows.Data;
 using CustomerLib;
-using Microsoft.Toolkit.Mvvm.ComponentModel;
-using Microsoft.Toolkit.Mvvm.Input;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 
 namespace CustomerApp.ViewModel
 {
